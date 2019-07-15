@@ -2,7 +2,7 @@ name: flip_animation_widget
 description: A widget with flip animation depend on value.
 version: 0.0.1
 author: c1yde3<c1yde3@outlook.com>
-homepage: 
+homepage: https://github.com/cenumi/flip_animation_widget
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
